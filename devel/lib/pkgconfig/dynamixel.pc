@@ -1,0 +1,8 @@
+prefix=/home/pmgrb6484/F.R.I.D.A.Y/devel
+
+Name: dynamixel
+Description: Description of dynamixel
+Version: 0.1.0
+Cflags: -I/home/pmgrb6484/F.R.I.D.A.Y/src/dynamixel/include
+Libs: -L${prefix}/lib -ldynamixel
+Requires: dynamixel_sdk roscpp std_msgs msg_pkg

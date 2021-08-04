@@ -1,0 +1,8 @@
+prefix=/home/pmgrb6484/F.R.I.D.A.Y/install
+
+Name: cmvision_3d
+Description: Description of cmvision_3d
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: geometry_msgs std_msgs

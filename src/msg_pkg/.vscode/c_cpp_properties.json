@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/pmgrb6484/catkin_ws/devel/include/**",
+        "/home/pmgrb6484/catkin_ws/src/dynamixel/include/**",
+        "/home/pmgrb6484/catkin_ws/src/DynamixelSDK/ros/include/**",
+        "/home/pmgrb6484/catkin_ws/src/jacobian/include/**",
+        "/home/pmgrb6484/catkin_ws/src/iai_kinect2/kinect2_bridge/include/**",
+        "/home/pmgrb6484/catkin_ws/src/iai_kinect2/kinect2_calibration/include/**",
+        "/home/pmgrb6484/catkin_ws/src/iai_kinect2/kinect2_registration/include/**",
+        "/home/pmgrb6484/catkin_ws/src/vision/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}

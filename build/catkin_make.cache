@@ -1,0 +1,2 @@
+DynamixelSDK/ros:cmvision_3d:dynamixel:iai_kinect2/iai_kinect2:iai_kinect2/kinect2_bridge:iai_kinect2/kinect2_registration:jacobian:manipulator_description:msg_pkg:teleop_twist_keyboard:vision
+-DCATKIN_DEVEL_PREFIX=/home/pmgrb6484/F.R.I.D.A.Y/devel -DCMAKE_INSTALL_PREFIX=/home/pmgrb6484/F.R.I.D.A.Y/install -G Unix Makefiles

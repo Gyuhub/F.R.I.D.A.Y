@@ -1,0 +1,8 @@
+prefix=/home/pmgrb6484/F.R.I.D.A.Y/install
+
+Name: vision
+Description: Description of vision
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lvision
+Requires: image_transport roscpp sensor_msgs std_msgs

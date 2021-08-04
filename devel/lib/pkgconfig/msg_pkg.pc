@@ -1,0 +1,8 @@
+prefix=/home/pmgrb6484/F.R.I.D.A.Y/devel
+
+Name: msg_pkg
+Description: Description of msg_pkg
+Version: 0.1.0
+Cflags: -I/home/pmgrb6484/F.R.I.D.A.Y/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
